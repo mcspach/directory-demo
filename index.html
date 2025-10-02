@@ -1,0 +1,708 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Faculty &amp; Staff Directory</title>
+    <link
+      rel="canonical"
+      href="https://franu.omniweb.cloud/_showcase/faculty/index.html" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" />
+    <link href="_resources/css/css2.css" rel="stylesheet" />
+
+    <!-- Bootstrap 5.3.3 CSS -->
+    <link rel="stylesheet" href="_resources/css/bootstrap.min.css" />
+
+    <!-- Font Awescome CDN -->
+    <link rel="stylesheet" href="_resources/css/all.css" />
+
+    <link rel="stylesheet" href="_resources/css/totopstyle.css" />
+    <link rel="stylesheet" href="_resources/css/lightbox.css" />
+    <link rel="stylesheet" href="_resources/css/dataTables.bootstrap5.css" />
+
+    <!-- Always load custom styles last  -->
+    <link rel="stylesheet" href="_resources/css/styles.css" />
+    <link rel="stylesheet" href="_resources/css/header.css" />
+    <link rel="stylesheet" href="_resources/css/footer.css" />
+    <link rel="stylesheet" href="_resources/css/print.css" media="print" />
+    <link rel="stylesheet" href="_resources/css/mcstyles.css" />
+    <!-- Insert google analytics here -->
+  </head>
+  <body>
+    <script type="text/javascript">
+      document.body.style.top = "80px";
+    </script>
+    <div
+      class="alert alert-dismissible alert-danger text-center show"
+      role="alert">
+      <p><span class="fa fa-message"></span></p>
+      <p>
+        Emergency Alert:
+        <a href="#">This is an example of an emergency alert.</a>
+      </p>
+      <p></p>
+      <button
+        type="button"
+        class="btn-close"
+        data-bs-dismiss="alert"
+        aria-label="Close"></button>
+      <span class="sr-only">Close Alert</span>
+    </div>
+    <a class="sr-only sr-only-focusable" href="#main-content">
+      Skip to main content
+    </a>
+    <a class="sr-only sr-only-focusable" href="#site-navigation">
+      Skip to main navigation
+    </a>
+    <a class="sr-only sr-only-focusable" href="#footer">
+      Skip to footer content
+    </a>
+    <header class="main-header" id="site-navigation">
+      <div class="top-nav d-none d-lg-block">
+        <div class="row">
+          <div class="col-4 aux">
+            <div class="">
+              <a href="#/">
+                Visit Campus
+                <span class="fa fa-map"></span>
+              </a>
+              <a href="#">
+                Apply Now
+                <span class="fa fa-desktop"></span>
+              </a>
+            </div>
+          </div>
+          <div class="col-4 col-logo">
+            <a class="navbar-brand" href="/">
+              <img src="_resources/images/franu-logo-white.png" alt="logo" />
+            </a>
+          </div>
+          <div class="col-4">
+            <div class="top-right">
+              <div class="search-container">
+                <form action="/action_page.php">
+                  <label for="search" class="sr-only">Search</label>
+                  <input
+                    type="text"
+                    placeholder="Search..."
+                    name="search"
+                    id="search" />
+                  <button type="submit">
+                    <span class="fa fa-search"></span>
+                    <span class="sr-only">Submit Search</span>
+                  </button>
+                </form>
+              </div>
+              <div class="dropdown audience">
+                <button
+                  class="dropdown-toggle"
+                  type="button"
+                  data-bs-toggle="dropdown"
+                  aria-expanded="false"
+                  id="audienceDropdown">
+                  Resources For
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="audienceDropdown">
+                  <li><a class="dropdown-item" href="#/">Link</a></li>
+                  <li><a class="dropdown-item" href="#/">Link</a></li>
+                  <li><a class="dropdown-item" href="#/">Link</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <nav class="navbar navbar-expand-lg">
+        <div class="row main-nav-wrap">
+          <div
+            class="col-9 d-flex d-lg-none justify-content-start align-items-center">
+            <button
+              class="btn search-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#mobile-search-wrap"
+              aria-expanded="false"
+              aria-controls="mobile-search">
+              <span class="fa fa-search"></span>
+              <span class="sr-only">Search</span>
+              <span class="fa fa-times">
+                <span class="sr-only">Close Search</span>
+              </span>
+            </button>
+            <div class="collapse" id="mobile-search-wrap">
+              <div class="search-container">
+                <form action="/action_page.php">
+                  <label for="mobile-search" class="sr-only">Search</label>
+                  <input
+                    type="text"
+                    placeholder="Search..."
+                    name="mobile-search"
+                    id="mobile-search" />
+                  <button type="submit">
+                    <span class="fa fa-search"></span>
+                    <span class="sr-only">Submit Search</span>
+                  </button>
+                </form>
+              </div>
+            </div>
+          </div>
+          <div class="col-3 d-lg-none d-flex justify-content-end">
+            <button
+              class="navbar-toggler"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbarNavDropdown"
+              aria-controls="navbarNavDropdown"
+              aria-expanded="false"
+              aria-label="Toggle navigation">
+              <span class="sr-only">Menu</span>
+              <span class="fa fa-bars"></span>
+              <span class="fa fa-times"></span>
+            </button>
+          </div>
+          <div class="col-12 col-logo d-lg-none">
+            <a class="navbar-brand" href="#">
+              <img src="_resources/images/franu-logo-white.png" alt="logo" />
+            </a>
+          </div>
+          <div class="col-12 mx-0 px-0 col-lg-10 offset-lg-1">
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <div class="top-nav-mobile d-flex d-lg-none">
+                <a href="#/" class="btn-nav">
+                  Visit Campus
+                  <span class="fa fa-map"></span>
+                </a>
+                <a href="#" class="btn-nav">
+                  Apply Now
+                  <span class="fa fa-desktop"></span>
+                </a>
+              </div>
+              <div class="navbar-nav">
+                <div class="btn-group nav-dropdown-div align-items-center">
+                  <a href="#" class="">Admissions &amp; Aid</a>
+                  <button
+                    type="button"
+                    class="dropdown-toggle dropdown-toggle-split"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    <span class="visually-hidden">Toggle Dropdown</span>
+                  </button>
+                  <div class="dropdown-menu">
+                    <ul>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Undergraduate Admissions
+                        </a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Graduate Admissions
+                        </a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          International Students
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="btn-group nav-dropdown-div align-items-center">
+                  <a href="#" class="">Academics</a>
+                  <button
+                    type="button"
+                    class="dropdown-toggle dropdown-toggle-split"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    <span class="visually-hidden">Toggle Dropdown</span>
+                  </button>
+                  <div class="dropdown-menu">
+                    <ul>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Colleges &amp; Schools
+                        </a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">Academic Programs</a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">Course Catalog</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="btn-group nav-dropdown-div align-items-center">
+                  <a href="#" class="">Student Life</a>
+                  <button
+                    type="button"
+                    class="dropdown-toggle dropdown-toggle-split"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    <span class="visually-hidden">Toggle Dropdown</span>
+                  </button>
+                  <div class="dropdown-menu">
+                    <ul>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Student Organizations
+                        </a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">Campus Events</a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Housing &amp; Residence Life
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="btn-group nav-dropdown-div align-items-center">
+                  <a href="#" class="">About</a>
+                  <button
+                    type="button"
+                    class="dropdown-toggle dropdown-toggle-split"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    <span class="visually-hidden">Toggle Dropdown</span>
+                  </button>
+                  <div class="dropdown-menu">
+                    <ul>
+                      <li>
+                        <a class="dropdown-item" href="#">University History</a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Mission &amp; Vision
+                        </a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">
+                          Leadership &amp; Governance
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="btn-group nav-dropdown-div align-items-center">
+                  <a href="#" class="">Giving</a>
+                  <button
+                    type="button"
+                    class="dropdown-toggle dropdown-toggle-split"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false">
+                    <span class="visually-hidden">Toggle Dropdown</span>
+                  </button>
+                  <div class="dropdown-menu">
+                    <ul>
+                      <li>
+                        <a class="dropdown-item" href="#">Student Services</a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">Campus Security</a>
+                      </li>
+                      <li>
+                        <a class="dropdown-item" href="#">Alumni Relations</a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+              <div class="audience d-block d-lg-none">
+                <p class="mobile-audience-heading">Resources For:</p>
+                <ul class="highlight-border-list">
+                  <li><a href="#/">Link</a></li>
+                  <li><a href="#/">Link</a></li>
+                  <li><a href="#/">Link</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <script>
+      // Get the navbar toggler, menu and close icons
+      const navbarToggler = document.querySelector(
+        ".main-header .navbar-toggler"
+      );
+      const menuIcon = navbarToggler.querySelector(".fa-bars");
+      const closeIcon = navbarToggler.querySelector(".fa-times");
+      // Get the navigation menu
+      const navMenu = document.querySelector(".main-header .navbar-collapse");
+      // Function to toggle the icon and adjust the menu position
+      function toggleIcon() {
+        if (navbarToggler.getAttribute("aria-expanded") === "true") {
+          menuIcon.style.display = "none";
+          closeIcon.style.display = "inline";
+          navbarToggler.style.color = "white";
+          // navMenu.style.top = '0';
+        } else {
+          closeIcon.style.display = "none";
+          menuIcon.style.display = "inline";
+          navbarToggler.style.color = "";
+          // navMenu.style.top = '';
+        }
+      }
+      // Event listener to handle icon toggle and menu position on click
+      navbarToggler.addEventListener("click", toggleIcon);
+      // Get the search toggler elements
+      const searchToggler = document.querySelector(
+        ".main-header .search-toggler"
+      );
+      const searchText = searchToggler.querySelector("span:nth-child(2)");
+      const searchIcon = searchToggler.querySelector(".fa-search");
+      const closeSearchIcon = searchToggler.querySelector(".fa-times");
+      // onload, hide the .fa-times icon
+      closeSearchIcon.style.display = "none";
+      // Function to toggle the icon and adjust searchbar position
+      function toggleSearchIcon() {
+        if (searchToggler.getAttribute("aria-expanded") === "true") {
+          searchIcon.style.display = "none";
+          searchText.style.display = "none";
+          closeSearchIcon.style.display = "inline";
+        } else {
+          closeSearchIcon.style.display = "none";
+          searchText.style.display = "inline";
+          searchIcon.style.display = "inline";
+        }
+      }
+      // Event listener to handle icon toggle and menu position on click
+      searchToggler.addEventListener("click", toggleSearchIcon);
+    </script>
+    <main class="content" id="main-content">
+      <div class="container">
+        <div class="container">
+          <div class="row">
+            <div class="col-12">
+              <nav aria-label="breadcrumb">
+                <ol class="breadcrumb">
+                  <li class="breadcrumb-item">
+                    <a href="/index.html">Home</a>
+                  </li>
+                  <li class="breadcrumb-item">
+                    <a href="/_showcase/index.html">_showcase</a>
+                  </li>
+                  <li class="breadcrumb-item">faculty</li>
+                </ol>
+              </nav>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 py-4">
+            <h1>Faculty &amp; Staff Directory</h1>
+            <p class="font-family-heading">
+              <span>
+                Discover the dedicated professionals who bring our mission to
+                life. Whether you're looking to connect with a specific
+                department, learn about our talented team or simply explore the
+                faces behind our organization, you'll find all the details here.
+                Use the search and filter options to easily navigate our
+                directory.
+              </span>
+            </p>
+          </div>
+          <div class="col-12 p-0">
+            <div class="directory-filters" id="directoryFilters">
+              <div class="sidenav-collapse">
+                <nav class="navbar navbar-expand-lg" title="Directory Filters">
+                  <button
+                    class="navbar-toggler"
+                    type="button"
+                    data-bs-toggle="collapse"
+                    data-bs-target="#navbarMenu"
+                    aria-controls="navbarMenu"
+                    aria-expanded="false"
+                    aria-label="Toggle navigation">
+                    <span class="directory-filters-heading">Filters</span>
+                    <span class="fa fa-chevron-down"></span>
+                    <span class="fa fa-chevron-up"></span>
+                  </button>
+                  <div class="navbar-collapse collapse" id="navbarMenu">
+                    <nav
+                      class="navbar navbar-expand-lg"
+                      aria-label="Directory Filter Options">
+                      <div class="row">
+                        <div class="col-12 col-lg-6 directory-search">
+                          <form action="./">
+                            <label
+                              for="directorySearch"
+                              class="checkbox-category-title sr-only">
+                              Keyword
+                            </label>
+                            <input
+                              id="directorySearch"
+                              type="text"
+                              placeholder="Search..." />
+                            <span class="fa fa-search"></span>
+                          </form>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3">
+                          <div class="checkbox-category checkbox-dropdown">
+                            <p class="checkbox-category-title">
+                              Offices &amp; Departments
+                            </p>
+                            <div class="dropdown">
+                              <button
+                                class="dropdown-toggle w-100 text-start"
+                                type="button"
+                                id="officeDropdown"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                Select
+                              </button>
+                              <ul
+                                class="dropdown-menu w-100"
+                                aria-labelledby="officeDropdown">
+                                <li>
+                                  <div id="offices_filters"></div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-3">
+                          <div class="checkbox-category checkbox-dropdown">
+                            <p class="checkbox-category-title">
+                              Schools &amp; Programs
+                            </p>
+                            <div class="dropdown">
+                              <button
+                                class="dropdown-toggle w-100 text-start"
+                                type="button"
+                                id="schoolDropdown"
+                                data-bs-toggle="dropdown"
+                                aria-expanded="false">
+                                Select
+                              </button>
+                              <ul
+                                class="dropdown-menu w-100"
+                                aria-labelledby="schoolDropdown">
+                                <li>
+                                  <div id="schools_filters"></div>
+                                </li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </nav>
+                  </div>
+                </nav>
+              </div>
+            </div>
+          </div>
+          <div class="col-12">
+            <p class="results-header">
+              <span id="resultsCount">00</span>
+              Results Found
+            </p>
+            <button class="reset-button" id="resetFilters">
+              Reset Filters
+            </button>
+            <p>Explore further! Click on a profile to view complete details.</p>
+            <hr />
+          </div>
+          <div class="col-12">
+            <div
+              class="directory-list"
+              id="directoryList"
+              data-src="./_resources/data/faculty.json"></div>
+          </div>
+          <div class="col-12">
+            <div id="directoryPagination" class="directory-pagination"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3">
+            <img
+              src="_resources/images/franu-logomark-color.png"
+              alt="footer-logo"
+              class="footer-logo" />
+          </div>
+          <div class="col-lg-4">
+            <ul class="footer-address">
+              <li>
+                <a href="#">
+                  5414 Brittany Drive
+                  <br />
+                  Baton Rouge, LA 70808
+                </a>
+              </li>
+              <li><a href="tel:(877)242-3509">(877)242-3509</a></li>
+              <li><a href="mailto:info@franu.edu">info@franu.edu</a></li>
+            </ul>
+            <ul class="footer-social nav">
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-facebook"></span>
+                  <span class="sr-only">Facebook</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-x-twitter"></span>
+                  <span class="sr-only">Twitter</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-instagram"></span>
+                  <span class="sr-only">Instagram</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-youtube"></span>
+                  <span class="sr-only">Youtube</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-linkedin"></span>
+                  <span class="sr-only">LinkedIn</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-snapchat"></span>
+                  <span class="sr-only">Snapchat</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="#" class="social-icon" target="_blank">
+                  <span class="fa-brands fa-tiktok"></span>
+                  <span class="sr-only">TikTok</span>
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div class="col-lg-4 offset-lg-1 mt-4 mt-lg-0">
+            <div class="row footer-nav justify-content-center">
+              <div class="col-6">
+                <ul class="highlight-border-list">
+                  <li><a href="#">A to Z</a></li>
+                  <li><a href="#">Careers</a></li>
+                  <li><a href="#">Virtual Tour</a></li>
+                  <li><a href="#">Library</a></li>
+                  <li><a href="#">Webmail</a></li>
+                  <li><a href="#">Visit Fran U</a></li>
+                </ul>
+              </div>
+              <div class="col-6">
+                <ul class="highlight-border-list">
+                  <li><a href="#">A to Z</a></li>
+                  <li><a href="#">Careers</a></li>
+                  <li><a href="#">Virtual Tour</a></li>
+                  <li><a href="#">It Support</a></li>
+                  <li><a href="#">Book Store Kiosk</a></li>
+                  <li><a href="#">Visit Fran U</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="copyright">
+        <div class="container">
+          <hr />
+          <div class="row">
+            <div class="col-lg-6">
+              <ul class="list-inline">
+                <li class="list-inline-item">
+                  <span id="directedit"><a href="#">©</a></span>
+                  <span id="year"></span>
+                  Franciscan Missionaries of Our Lady University
+                </li>
+              </ul>
+            </div>
+            <div
+              class="col-lg-6 d-flex justify-content-center justify-content-lg-end">
+              <ul class="list-inline">
+                <li class="list-inline-item"><a href="#">Privacy Policy</a></li>
+                <li class="list-inline-item"><a href="#">Title IX</a></li>
+                <li class="list-inline-item"><a href="#">Title VI</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <button data-bs-target="#0" class="cd-top">
+      <span class="fa-solid fa-chevron-up"></span>
+      <span class="sr-only">Back to Top</span>
+    </button>
+    <button data-bs-target="#0" class="cd-top">
+      <span class="fa-solid fa-chevron-up"></span>
+      <span class="sr-only">Back to Top</span>
+    </button>
+
+    <script src="_resources/js/jquery-3.7.1.min.js"></script>
+    <script src="_resources/js/bootstrap.bundle.min.js"></script>
+    <script src="_resources/js/lightbox.js"></script>
+    <script src="_resources/js/scripts.js"></script>
+    <div class="alert cookiealert" role="alert">
+      <div class="container">
+        <div class="row d-flex align-items-center">
+          <div class="col-12 col-md-9">
+            <span>
+              By using this site, you agree to our privacy.
+              <a
+                aria-label="learn more about cookies"
+                role="button"
+                tabindex="0"
+                href="#"
+                target="_blank">
+                Read our privacy policy.
+              </a>
+            </span>
+          </div>
+          <div class="col-12 col-md-3 text-end">
+            <button
+              type="button"
+              aria-label="dismiss cookie message"
+              tabindex="0"
+              class="btn btn-default acceptcookies">
+              Accept
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="ou-hidden" style="display: none">
+      <a
+        id="de"
+        rel="nofollow"
+        href="https://a.cms.omniupdate.com/11/?skin=oucampus&amp;account=franu&amp;site=www&amp;action=de&amp;path=/_showcase/faculty/index.pcf">
+        �
+      </a>
+    </div>
+    <script>
+      if (
+        document.getElementById("de") != null &&
+        document.getElementById("directedit")
+      ) {
+        var link = document.getElementById("de").parentNode.innerHTML;
+        document.getElementById("de").parentNode.innerHTML = "";
+        document.getElementById("directedit").innerHTML = link.replace(
+          /^\s+|\s+$/gm,
+          ""
+        );
+      }
+    </script>
+    <script src="_resources/js/directory.js"></script>
+  </body>
+</html>

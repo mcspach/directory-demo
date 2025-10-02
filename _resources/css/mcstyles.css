@@ -1,0 +1,62 @@
+/*
+Implementation Skeleton v3 - 12/6/18
+Add styles to overwrite customer CSS, USE WITH CAUTION.
+*/
+
+.sidenav-nested .sidenav-ul {
+	margin-bottom: 0px;
+}
+
+.sidenav-nested .navbar-light {
+	margin-bottom: 0px;
+}
+
+.alert > p > .fa-message {
+	margin-right: 5px;
+}
+
+.alert {
+	margin-bottom:0px;
+}
+
+.btn.add-chevron::after {
+	content: "\f054";
+	font-family: "Font Awesome 5 Free"; 
+	font-weight: 900; 
+	margin-left: 6px;
+	display: inline-block; 
+	transition: transform 0.3s ease-in-out;
+}
+
+.btn.add-chevron:hover::after {
+	transform: translateX(4px);
+}
+
+p.btn a {
+	text-decoration: none;
+}
+
+/*  254862 */
+/* Only medium screens and below: MD */
+@media only screen and (max-width: 991px) {
+	.page-header.image-header.image-header-3 {
+		height: auto;
+		padding-top: 32px;
+		padding-bottom: 16px;
+		margin-bottom: 32px;
+		padding-bottom: 225px;
+	}
+	.page-header.image-header.image-header-3 .overlap-img-column {
+		min-height: 300px;
+		margin-bottom: 0;
+		margin-top: 0px;
+	}
+	.page-header.image-header.image-header-3 .header-bg-column {
+		width: 100%;
+		height: 225px;
+		top: auto;
+		bottom: 0;
+		right: 0;
+	}
+}
+/* 254862 */

@@ -1,0 +1,122 @@
+*,
+*::before,
+*::after {
+  text-shadow: none !important;
+  box-shadow: none !important;
+}
+a:not(.btn) {
+  text-decoration: underline;
+}
+abbr[title]::after {
+  content: " (" attr(title) ")";
+}
+pre {
+  white-space: pre-wrap !important;
+}
+pre,
+blockquote {
+  page-break-inside: avoid;
+}
+tr,
+img {
+  page-break-inside: avoid;
+}
+p,
+h2,
+h3 {
+  orphans: 3;
+  widows: 3;
+}
+h2,
+h3 {
+  page-break-after: avoid;
+}
+@page {
+  size: a3;
+}
+body {
+  min-width: 992px !important;
+}
+.container {
+  min-width: 992px !important;
+}
+.badge {
+  border: 1px solid #000;
+}
+.table {
+  border-collapse: collapse !important;
+}
+.table td,
+.table th {
+  background-color: #fff !important;
+}
+.table-bordered th,
+.table-bordered td {
+  border: 1px solid #dee2e6 !important;
+}
+.table-dark {
+  color: inherit;
+}
+.table-dark th,
+.table-dark td,
+.table-dark thead th,
+.table-dark tbody + tbody {
+  border-color: #dee2e6;
+}
+/* custom */
+footer {
+  display: none !important;
+}
+.navbar-collapse,
+.navbar-toggler,
+.sidemenu-toggler,
+.sidenav-collapse {
+  display: none !important;
+}
+.faculty-headshot {
+  width: 300px;
+  height: 300px;
+}
+.tab-content .tab-pane {
+  display: block !important;
+  opacity: 1;
+}
+.card-img-top,
+.card-img-top-small {
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.card-img-side {
+  max-width: 50vw;
+}
+.accordion-collapse {
+  display: block !important;
+  opacity: 1;
+  break-inside: avoid;
+}
+.col-md-3,
+.col-lg-3 {
+  max-width: 25%;
+}
+.col-md-4,
+.col-lg-4 {
+  max-width: 33.3333%;
+}
+.col-md-6,
+.col-lg-6 {
+  max-width: 50%;
+}
+div.sidenav-accordion {
+  display: none !important;
+}
+.carousel button {
+  display: none;
+}
+.index-video {
+  max-height: 300px;
+}
+.index-video .video-caption {
+  top: 40px;
+  height: 220px;
+}

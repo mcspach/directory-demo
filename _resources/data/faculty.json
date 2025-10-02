@@ -1,0 +1,2715 @@
+[
+  {
+    "name": "Aimee Howard",
+    "position": "Director, Grants and Sponsored Programs",
+    "email": "Aimee.Howard@franu.edu",
+    "phone": "(225)526-1652",
+    "link": "/_showcase/faculty/ahoward.html",
+    "officeLocation": "Administration Annex",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Institutional Advancement",
+        "departments": ["Test"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Aimee Serio",
+    "position": "Director, Clinical Education Dietetic Internship",
+    "email": "Aimee.Serio@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/aserio.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Aimee%20Serio.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Grants"]
+      },
+      {
+        "title": "School of Health Professions",
+        "programs": ["Nutritional Sciences (MSNS)"]
+      }
+    ]
+  },
+  {
+    "name": "Albert Swafford",
+    "position": "Associate Professor, DNP-NA & DPT Programs",
+    "email": "Albert.Swafford@franu.edu",
+    "phone": "(225) 526-1606",
+    "link": "/_showcase/faculty/aswafford.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Albert%20Swafford.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physical Therapist Assistant (PTA)"]
+      },
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Alicia Bates",
+    "position": "Program Director, Family Nurse Practitioner Program",
+    "email": "Alicia.Bates@franu.edu",
+    "phone": "(225)526-1797",
+    "link": "/_showcase/faculty/abates.html",
+    "officeLocation": "School of Nursing, Room 209",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Family Nurse Practitioner (FNP)"]
+      }
+    ]
+  },
+  {
+    "name": "Alicia Quebedeaux",
+    "position": "Director of Development, Institutional Advancement",
+    "email": "Alicia.Quebedeaux@franu.edu",
+    "phone": "(225)526-1617",
+    "link": "/_showcase/faculty/aquebedeaux.html",
+    "officeLocation": "Administration Annex Suite A",
+    "image": "/assets/headshots/Alicia%20Quebedeaux.jpg",
+    "offices": [
+      {
+        "title": "Office of Institutional Advancement",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Aimee Serio",
+    "position": "Director, Clinical Education Dietetic Internship",
+    "email": "Aimee.Serio@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/aserio.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Aimee%20Serio.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Nutritional Sciences (MSNS)"]
+      }
+    ]
+  },
+  {
+    "name": "Albert Swafford",
+    "position": "Associate Professor, DNP-NA & DPT Programs",
+    "email": "Albert.Swafford@franu.edu",
+    "phone": "(225) 526-1606",
+    "link": "/_showcase/faculty/aswafford.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Albert%20Swafford.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Alicia Bates",
+    "position": "Program Director, Family Nurse Practitioner Program",
+    "email": "Alicia.Bates@franu.edu",
+    "phone": "(225)526-1797",
+    "link": "/_showcase/faculty/abates.html",
+    "officeLocation": "School of Nursing, Room 209",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Family Nurse Practitioner (FNP)"]
+      }
+    ]
+  },
+  {
+    "name": "Alicia Quebedeaux",
+    "position": "Director of Development, Institutional Advancement",
+    "email": "Alicia.Quebedeaux@franu.edu",
+    "phone": "(225)526-1617",
+    "link": "/_showcase/faculty/aquebedeaux.html",
+    "officeLocation": "Administration Annex Suite A",
+    "image": "/assets/headshots/Alicia%20Quebedeaux.jpg",
+    "offices": [
+      {
+        "title": "Office of Institutional Advancement",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Amanda Olinde",
+    "position": "Assistant Professor, Nursing",
+    "email": "Amanda.Olinde@franu.edu",
+    "phone": "(225)526-1626",
+    "link": "/_showcase/faculty/aolinde.html",
+    "officeLocation": "School of Nursing, Room 111",
+    "image": "/assets/headshots/Amanda%20Olinde.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Amanda Robichaux",
+    "position": "Academic Support Coordinator",
+    "email": "Amanda.Robichaux@franu.edu",
+    "phone": "(225)526-1792",
+    "link": "/_showcase/faculty/arobichaux.html",
+    "officeLocation": "Health Professions Faculty Building, Room 120",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Amit Mitra",
+    "position": "Professor, Nursing Program & Physician Assistant Program",
+    "email": "amit.mitra@franu.edu",
+    "phone": "(225)526-1678",
+    "link": "/_showcase/faculty/amitra.html",
+    "officeLocation": "School of Nursing, Room 115",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Amy Hall",
+    "position": "Dean, School of Nursing",
+    "email": "Amy.Hall@franu.edu",
+    "phone": "(225)526-1790",
+    "link": "/_showcase/faculty/ahall.html",
+    "officeLocation": "School of Nursing, Room 100-A",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Administration"]
+      }
+    ]
+  },
+  {
+    "name": "Andrea Williams",
+    "position": "Manager Academic Advising",
+    "email": "Andrea.Williams@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/awilliams.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Academic Support"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Angelette Evans",
+    "position": "Instructor, Graduate Health Care Administration",
+    "email": "Angelette.Evans@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/aevans.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Master of Healthcare Administration (MHA)"]
+      }
+    ]
+  },
+  {
+    "name": "Angelia Bercegeay",
+    "position": "Vice President, Operations & Finance",
+    "email": "Angelia.Bercegeay@franu.edu",
+    "phone": "(225)526-1690",
+    "link": "/_showcase/faculty/abercegeay.html",
+    "officeLocation": "St. Francis Hall, Library Commons",
+    "image": "/assets/headshots/Angelia%20Bercegeay.jpg",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Angus Woodward",
+    "position": "Professor, Writing",
+    "email": "Angus.Woodward@franu.edu",
+    "phone": "(225)526-1704",
+    "link": "/_showcase/faculty/awoodward.html",
+    "officeLocation": "Liberal Arts and Social Sciencess, Room 104A",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": [
+          "Liberal Studies & Social Sciences | Writing (General Studies)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Anne Marie Hancock",
+    "position": "Instructor, Biology | Anatomy and Physiology Lab Coordinator",
+    "email": "Anne.Hancock@franu.edu",
+    "phone": "(225)526-1743",
+    "link": "/_showcase/faculty/ahancock.html",
+    "officeLocation": "BLRB 107",
+    "image": "/assets/headshots/Anne%20Marie%20Hancock.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Anneisha Anthony",
+    "position": "Financial Aid Counselor",
+    "email": "Anneisha.Anthony@franu.edu",
+    "phone": "(225)526-1649",
+    "link": "/_showcase/faculty/aanthony.html",
+    "officeLocation": "St. Francis Hall, Room A218",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Financial Aid"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Ansleigh Munn",
+    "position": "Project Coordinator",
+    "email": "Ansleigh.Munn@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/amunn.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Grants"]
+      }
+    ]
+  },
+  {
+    "name": "April Graham",
+    "position": "Program Director, Physical Therapist Assistant Program",
+    "email": "April.Graham@franu.edu",
+    "phone": "(225)526-1689",
+    "link": "/_showcase/faculty/agraham.html",
+    "officeLocation": "Health Professions Annex",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physical Therapist Assistant (PTA)"]
+      }
+    ]
+  },
+  {
+    "name": "Ariel Viator",
+    "position": "Admissions Counselor",
+    "email": "Ariel.Viator@franu.edu",
+    "phone": "(225)526-1835",
+    "link": "/_showcase/faculty/aviator.html",
+    "officeLocation": "St. Francis Hall",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Ashley Fontenot",
+    "position": "Administrative Office Specialist",
+    "email": "Ashley.Fontenot@franu.edu",
+    "phone": "(225)526-1729",
+    "link": "/_showcase/faculty/afontenot.html",
+    "officeLocation": "St. Francis Hall, Room A328",
+    "image": "/assets/headshots/Ashley%20Fontenot.jpg",
+    "offices": [
+      {
+        "title": "Office of the President",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Ashley Lee",
+    "position": "Instructor, Undergraduate Nursing",
+    "email": "Ashley.Lee1@franu.edu",
+    "phone": "(225)526-1507",
+    "link": "/_showcase/faculty/alee.html",
+    "officeLocation": "School of Nursing",
+    "image": "/assets/headshots/Ashley%20Lee.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Aubry Turner",
+    "position": "Director, Academic Support Services",
+    "email": "Aubry.Turner@franu.edu",
+    "phone": "(225)526-1622",
+    "link": "/_showcase/faculty/aturner.html",
+    "officeLocation": "St. Francis Hall, Room A219",
+    "image": "/assets/headshots/Aubry%20Turner.jpg",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Academic Support"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Belinda Munson",
+    "position": "Assistant Professor Nursing",
+    "email": "Belinda.Munson@franu.edu",
+    "phone": "(225)526-1781",
+    "link": "/_showcase/faculty/bmunson.html",
+    "officeLocation": "School of Nursing",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Benjamin Faucheux",
+    "position": "CRM Administrator",
+    "email": "Benjamin.Faucheux@franu.edu",
+    "phone": "(225)526-1772",
+    "link": "/_showcase/faculty/bfaucheux.html",
+    "officeLocation": "St. Francis Hall, Admissions A233B-8",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Beth Crochet",
+    "position": "Assistant Professor, DNP-NA",
+    "email": "Beth.Crochet@franu.edu",
+    "phone": "(225)526-1979",
+    "link": "/_showcase/faculty/bcrochet.html",
+    "officeLocation": "Graduate Clinical Education Building, Room 114",
+    "image": "/assets/headshots/Beth%20Crochet.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Brady Munn",
+    "position": "Annual Giving and Alumni Relations Director",
+    "email": "Brady.Munn@franu.edu",
+    "phone": "(225)526-1525",
+    "link": "/_showcase/faculty/bmunn.html",
+    "officeLocation": "Administrative Annex, Suite A",
+    "image": "/assets/headshots/Brady%20Munn.jpg",
+    "offices": [
+      {
+        "title": "Office of Institutional Advancement",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Brian Pedraza",
+    "position": "Program Director & Associate Professor, Theology Program",
+    "email": "Brian.Pedraza@franu.edu",
+    "phone": "(225)526-1986",
+    "link": "/_showcase/faculty/bpedraza.html",
+    "officeLocation": "Liberal Arts and Social Sciences, Room 104-F",
+    "image": "/assets/headshots/Brian%20Pedraza.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Theology"]
+      }
+    ]
+  },
+  {
+    "name": "Brian Rash",
+    "position": "Vice President Academic Affairs",
+    "email": "Brian.Rash@franu.edu",
+    "phone": "(225)526-1692",
+    "link": "/_showcase/faculty/brash.html",
+    "officeLocation": "St. Francis Hall, Room A319",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Administration"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Byron Robinson",
+    "position": "Inst Research and Effect Specialist",
+    "email": "Byron.Robinson@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/brobinson.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Institutional Research"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Candi McElheny",
+    "position": "Assistant Provost for Institutional Effectiveness and Research",
+    "email": "Candi.McElheny@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/cmcelheny.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Institutional Research"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Carla Harmon",
+    "position": "Director, Prelicensure B.S.N. Program",
+    "email": "Carla.Harmon@franu.edu",
+    "phone": "(225)526-1752",
+    "link": "/_showcase/faculty/charmon.html",
+    "officeLocation": "School of Nursing, Room 114",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Carmen Nichols",
+    "position": "Director of Forensic Science Certificate | Associate Professor, Biology",
+    "email": "Carmen.Nichols@franu.edu",
+    "phone": "(225)526-1680",
+    "link": "/_showcase/faculty/cnichols.html",
+    "officeLocation": "Biological Learning and Research, Room 108",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Caroline Wallace",
+    "position": "Director, Human Resources",
+    "email": "Caroline.Wallace@franu.edu",
+    "phone": "(225)526-1679",
+    "link": "/_showcase/faculty/cwallace.html",
+    "officeLocation": "Old Library Commons Building",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Catherine Alexander",
+    "position": "Assistant Professor, Chemistry | Chair of Sciences",
+    "email": "Catherine.Alexander@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/calexander.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["General Studies"]
+      }
+    ]
+  },
+  {
+    "name": "Christina Rochester",
+    "position": "Assistant Professor Nursing",
+    "email": "Christina.Rochester@franu.edu",
+    "phone": "(225)526-1740",
+    "link": "/_showcase/faculty/crochester.html",
+    "officeLocation": "School of Nursing, Room 104-A",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Christopher Ragusa",
+    "position": "Assistant Professor, Theology",
+    "email": "Christopher.Ragusa@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/cragusa.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Christopher%20%20Ragusa.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Theology"]
+      }
+    ]
+  },
+  {
+    "name": "Cindy Vasquez",
+    "position": "Financial Aid Counselor",
+    "email": "Cindy.Vasquez@franu.edu",
+    "phone": "(225)526-1995",
+    "link": "/_showcase/faculty/cvasquez.html",
+    "officeLocation": "St. Francis Hall",
+    "image": "/assets/headshots/Cindy%20Vasquez.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Financial Aid"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Cristy Aymond",
+    "position": "Laboratory Coordinator",
+    "email": "Cristy.Aymond@franu.edu",
+    "phone": "(225)526-1814",
+    "link": "/_showcase/faculty/caymond.html",
+    "officeLocation": "Sciences Building, Room 103-G",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Medical Laboratory Science (MLS)"]
+      }
+    ]
+  },
+  {
+    "name": "Damon Boria",
+    "position": "Program Director, Great Books Program | Professor, Philosophy | Chair, Liberal Arts & Social Sciences Department",
+    "email": "Damon.Boria@franu.edu",
+    "phone": "(225)526-1794",
+    "link": "/_showcase/faculty/dboria.html",
+    "officeLocation": "Liberal Arts and Social Sciences Building, Room 104C",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Liberal Studies & Social Sciences | Great Books Program "]
+      }
+    ]
+  },
+  {
+    "name": "Danielle Bache",
+    "position": "Instructor, Nursing",
+    "email": "Danielle.Bache@franu.edu",
+    "phone": "(225)526-1779",
+    "link": "/_showcase/faculty/dbache.html",
+    "officeLocation": "School of Nursing, Room 202",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN) "]
+      }
+    ]
+  },
+  {
+    "name": "Daphne Moore",
+    "position": "Assistant Professor, Chemistry",
+    "email": "Daphne.Moore@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/dmoore.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Chemistry (General Studies)"]
+      }
+    ]
+  },
+  {
+    "name": "David L. Whidden III",
+    "position": "Vice President for Mission | Professor of Theology",
+    "email": "David.Whidden@franu.edu",
+    "phone": "(225)526-1651",
+    "link": "/_showcase/faculty/dwhidden.html",
+    "officeLocation": "St. Francis Hall, Room A320",
+    "image": "/assets/headshots/David%20Whidden.jpg",
+    "offices": [
+      {
+        "title": "Office of Mission",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "David Bellar",
+    "position": "President ",
+    "email": "",
+    "phone": "",
+    "link": "/_showcase/faculty/dbellar.html",
+    "officeLocation": "St. Francis Hall",
+    "image": "/assets/headshots/David%20%20Bellar.jpg",
+    "offices": [
+      {
+        "title": "Office of the President",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Dawn Simms",
+    "position": "Assistant Professor, Biology | Lab Coordinator | Chemical Hygiene Officer",
+    "email": "Dawn.Simms@franu.edu",
+    "phone": "(225)526-1951",
+    "link": "/_showcase/faculty/dsimms.html",
+    "officeLocation": "Biological Learning and Research Building, Room 109",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Deborah Fox",
+    "position": "Director, Medical Laboratory Science Program",
+    "email": "Deborah.Fox@franu.edu",
+    "phone": "(225)526-1727",
+    "link": "/_showcase/faculty/dfox.html",
+    "officeLocation": "School of Health Professions Facfulty Building, MLS Office Suite 236",
+    "image": "",
+    "offices": [
+      {
+        "title": "",
+        "departments": ["Medical Laboratory Science (MLS)"]
+      }
+    ],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Medical Laboratory Science (MLS)"]
+      }
+    ]
+  },
+  {
+    "name": "Debra Jenkins",
+    "position": "Switchboard Operator",
+    "email": "Debra.Jenkins@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/djenkins.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the President",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Dixie Gautreaux",
+    "position": "Dean, School of Arts & Sciences | Professor, Chemistry",
+    "email": "Dixie.Gautreaux@franu.edu",
+    "phone": "(225)526-1976",
+    "link": "/_showcase/faculty/dgautreaux.html",
+    "officeLocation": "Liberal Arts and Social Sciences, Room 106B",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Administration"]
+      }
+    ]
+  },
+  {
+    "name": "Donetta Guntz",
+    "position": "Academic Support Coordinator",
+    "email": "Donetta.Guntz@franu.edu",
+    "phone": "(225)526-1753",
+    "link": "/_showcase/faculty/dguntz.html",
+    "officeLocation": "School of Nursing, Room 100B",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Elaine Purdy",
+    "position": "Program Directory & Associate Professor, Health Care Administration Program",
+    "email": "Elaine.Purdy@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/epurdy.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Master of Health Administration (MHA)"]
+      }
+    ]
+  },
+  {
+    "name": "Eliska Davis",
+    "position": "Assistant Professor, Undergraduate Nursing",
+    "email": "Eliska.Davis@franu.edu",
+    "phone": "(225)526-1968",
+    "link": "/_showcase/faculty/edavis.html",
+    "officeLocation": "School of Nursing, Room 215",
+    "image": "/assets/headshots/Eliska%20Davis.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Ellis Smith",
+    "position": "Assistant Professor, Applied Behavior Analysis Program",
+    "email": "Ellis.Smith@franu.edu",
+    "phone": "(225)526-1662",
+    "link": "/_showcase/faculty/esmith.html",
+    "officeLocation": "Liberal Arts and Social Sciences Building, Room 105",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Psychology"]
+      }
+    ]
+  },
+  {
+    "name": "Emily Bailey",
+    "position": "Academic Librarian",
+    "email": "Emily.Bailey@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/ebailey.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["University Library"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Emily Kosh",
+    "position": "Associate Professor, Mathmatics",
+    "email": "Emily.Kosh@franu.edu",
+    "phone": "(225)526-1611",
+    "link": "/_showcase/faculty/ekosh.html",
+    "officeLocation": "Sciences Building, Office G",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Mathematics (General Studies)"]
+      }
+    ]
+  },
+  {
+    "name": "Emily Richard",
+    "position": "Instructor, Nursing",
+    "email": "Emily.Richard@franu.edu",
+    "phone": "(225)526-1733",
+    "link": "/_showcase/faculty/erichard.html",
+    "officeLocation": "School of Nursing, Room 107",
+    "image": "/assets/headshots/Emily%20Richard.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Erin Lane",
+    "position": "Bursar",
+    "email": "Erin.Lane@franu.edu",
+    "phone": "(225)526-1990",
+    "link": "/_showcase/faculty/elane.html",
+    "officeLocation": "St. Francis Hall, Room A226",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": ["Bursar"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Esther Penns",
+    "position": "Dean of Students",
+    "email": "Esther.Penns@franu.edu",
+    "phone": "(225)526-1621",
+    "link": "/_showcase/faculty/epenns.html",
+    "officeLocation": "St. Francis Hall, Room A206",
+    "image": "/assets/headshots/Esther%20Penns.jpg",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Hylda Nugent",
+    "position": "Associated Professor, DNP-NA",
+    "email": "hylda.nugent@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/hnugent.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Hylda%20Nugent.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Jaime Caillet",
+    "position": "Associate Professor, Doctor of Physical Therapy Program",
+    "email": "Jaime.Caillet@franu.edu",
+    "phone": "(225)526-1684",
+    "link": "/_showcase/faculty/jcaillet.html",
+    "officeLocation": "Physical Therapy Annex, Room 109",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Jalan Woodward",
+    "position": "Director, Resource Learning Center",
+    "email": "Jalan.Woodward@franu.edu",
+    "phone": "(225)526-1669",
+    "link": "/_showcase/faculty/jwoodward.html",
+    "officeLocation": "St. Francis Hall, Room A112",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Learning Resource Center"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Jamie Dearman",
+    "position": "Admissions Counselor",
+    "email": "Jamie.Dearman@franu.edu",
+    "phone": "(225)526-1956",
+    "link": "/_showcase/faculty/jdearman.html",
+    "officeLocation": "Saint Francis Hall, Admissions a223-4",
+    "image": "/assets/headshots/Jamie%20Dearmin.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Janice Hall",
+    "position": "Assistant Professor Nursing",
+    "email": "Janice.Hall@franu.edu",
+    "phone": "(225)526-1778",
+    "link": "/_showcase/faculty/jhall.html",
+    "officeLocation": "School of Nursing Building, Room 104-E",
+    "image": "/assets/headshots/Janice%20Hall.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Jasmine Mcclendon",
+    "position": "Academic Support Coordinator",
+    "email": "Jasmine.Mcclendon@franu.edu",
+    "phone": "(225)526-1696",
+    "link": "/_showcase/faculty/jmcclendon.html",
+    "officeLocation": "School of Nursing, Room 214",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Jaylin Cressy",
+    "position": "Assistant Professor, Nursing",
+    "email": "Jaylin.Cressy@franu.edu",
+    "phone": "(225)526-1647",
+    "link": "/_showcase/faculty/jcressy.html",
+    "officeLocation": "School of Nursing, Room 203",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Jeffrey Thompson",
+    "position": "Dean, School of Health Professions",
+    "email": "Jeffrey.Thompson@franu.edu",
+    "phone": "(225)526-1674",
+    "link": "/_showcase/faculty/jthompson.html",
+    "officeLocation": "Health Professions Faculty Offices",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Health Professions Administration"]
+      }
+    ]
+  },
+  {
+    "name": "Jeng-Yang (Chaz) Wu",
+    "position": "Director, Instructional Design and Technology",
+    "email": "Chaz.Wu@franu.edu",
+    "phone": "(225)526-1664",
+    "link": "/_showcase/faculty/jwu.html",
+    "officeLocation": "St. Francis Hall, Room 109",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs",
+        "departments": ["Instructional Design & Technology"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Jennifer Morel",
+    "position": "Assistant Professor, Theology",
+    "email": "Jennifer.Morel@franu.edu",
+    "phone": "(225)526-1502",
+    "link": "/_showcase/faculty/jmorel.html",
+    "officeLocation": "Liberal Arts and Social Sciences, Room 104-G",
+    "image": "/assets/headshots/Jennifer%20Morel.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Theology"]
+      }
+    ]
+  },
+  {
+    "name": "Jennifer Usher",
+    "position": "Project Coordinator",
+    "email": "Jennifer.Usher@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/jusher.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Grants"]
+      }
+    ]
+  },
+  {
+    "name": "Jennifer Watson",
+    "position": "Assistant Director Clinical Education, Doctor of Physical Therapy Program",
+    "email": "Jennifer.Watson@franu.edu",
+    "phone": "(225)526-1823",
+    "link": "/_showcase/faculty/jwatson.html",
+    "officeLocation": "Health Professions Annex, Room 105",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Jeremy Cinman",
+    "position": "Program Director, Business Administration | Assistant Professor, Undergraduate Health Care Administration",
+    "email": "Pearce.Cinman@franu.edu",
+    "phone": "(225)526-1759",
+    "link": "/_showcase/faculty/jcinman.html",
+    "officeLocation": "Science Building, Room 106-D",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Bachelor of Business Administration (BBA)"]
+      }
+    ]
+  },
+  {
+    "name": "Jessica Otis",
+    "position": "Director of Clinical Education & Assistant Professor, Physical Therapist Assistant (PTA) Program",
+    "email": "Jessica.Otis@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/jotis.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Jesssica%20Otis.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physical Therapist Assistant (PTA)"]
+      }
+    ]
+  },
+  {
+    "name": "Joe Magee",
+    "position": "Application System Specialist 2",
+    "email": "Mike.Magee@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/jmagee.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": ["Student Information Systems"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Jolie Relle",
+    "position": "Assistant Professor, Physician Assistant",
+    "email": "Jolie.Relle@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/jrelle.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Jolie%20Relle.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Josselin Carter",
+    "position": "Program Director & Assistant Professor, Physician Assistant Program",
+    "email": "Josselin.Carter@franu.edu",
+    "phone": "(225)526-1612",
+    "link": "/_showcase/faculty/jcarter.html",
+    "officeLocation": "School of Health Proffessions Faculty Building, Room 120",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Judith V. Roberson",
+    "position": "Vice President, Institutional Advancement",
+    "email": "Judith.Roberson@franu.edu",
+    "phone": "(225)526-1754",
+    "link": "/_showcase/faculty/jroberson.html",
+    "officeLocation": "Administrative Annex Suite A",
+    "image": "/assets/headshots/Judith%20%20Roberson.jpg",
+    "offices": [
+      {
+        "title": "Office of Institutional Advancement",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Kathryn Fakier",
+    "position": "Director, Nutritional Science Program",
+    "email": "Kathryn.Fakier@franu.edu",
+    "phone": "(225)526-1984",
+    "link": "/_showcase/faculty/kfakier.html",
+    "officeLocation": "School of Health Proffessions Faculty Building, Room 110",
+    "image": "/assets/headshots/Kathryn%20Fakier.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Nutritional Sciences (MSNS)"]
+      }
+    ]
+  },
+  {
+    "name": "Katrina O'Con",
+    "position": "Assistant Professor, DNP-NA",
+    "email": "katrina.ocon@franu.edu",
+    "phone": "(225) 526-1972",
+    "link": "/_showcase/faculty/kocon.html",
+    "officeLocation": "Graduate Clinical Education Building, Room 108",
+    "image": "/assets/headshots/Katrina%20Ocon.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Kaye A. Self",
+    "position": "Director, Marketing and Communications",
+    "email": "Kaye.Self@franu.edu",
+    "phone": "(225)526-1628",
+    "link": "/_showcase/faculty/kself.html",
+    "officeLocation": "Administration Annex Suite A",
+    "image": "/_training/_files/Kaye%20Self%20Headshot.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Marketing and Communications"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Kaylin Sibley",
+    "position": "Instructional Technologist | Program Manager, FCPD",
+    "email": "Kaylin.Sibley@franu.edu",
+    "phone": "(225)526-1603",
+    "link": "/_showcase/faculty/ksibley.html",
+    "officeLocation": "St. Francis Hall, Room B108",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs",
+        "departments": ["Instructional Design & Technology"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Kelly Phillip",
+    "position": "Manager, Philanthropic Services",
+    "email": "kelly.phillpott@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/kphillip.html",
+    "officeLocation": "Administrative Annex Suite A",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Institutional Advancement",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Keyo Johnson",
+    "position": "Director, Vocational Discernment & Career Development",
+    "email": "Keyo.Johnson@franu.edu",
+    "phone": "(225)526-1721",
+    "link": "/_showcase/faculty/kjohnson.html",
+    "officeLocation": "St. Francis Hall, Room A207",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Vocational Discernment & Career Development"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Kimberly Melancon",
+    "position": "Executive Assistant to President and Board Liaison",
+    "email": "Kimberly.Melancon@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/kmelancon.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the President",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Kimberly Vigee",
+    "position": "Associate Professor, Biology",
+    "email": "Kimberly.Vigee@franu.edu",
+    "phone": "(225)526-5261",
+    "link": "/_showcase/faculty/kvigee.html",
+    "officeLocation": "Sciences Building, Room E",
+    "image": "/assets/headshots/Kimberly%20Vigee.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Kristen Wells",
+    "position": "Assistant Professor, Radiology",
+    "email": "Kristen.Wells@franu.edu",
+    "phone": "(225)526-1693",
+    "link": "/_showcase/faculty/kwells.html",
+    "officeLocation": "Health Professions Annex, Room 242",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Radiologic Technology"]
+      }
+    ]
+  },
+  {
+    "name": "Kristin Martin",
+    "position": "Director of Clinical Education & Associate Professor, Family Nurse Practitioner Program",
+    "email": "Kristin.Martin@franu.edu",
+    "phone": "(225)526-1677",
+    "link": "/_showcase/faculty/kmartin.html",
+    "officeLocation": "School of Nursing, 2nd Floor",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Family Nurse Practitioner (FNP)"]
+      }
+    ]
+  },
+  {
+    "name": "LaTonya Dorsey",
+    "position": "Associate Dean & Professor, School of Nursing",
+    "email": "Latonya.Dorsey@franu.edu",
+    "phone": "(225)526-1742",
+    "link": "/_showcase/faculty/ldorsey.html",
+    "officeLocation": "School of Nursing Building, Room 100-C",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Administration"]
+      }
+    ]
+  },
+  {
+    "name": "Laaiqah Ebrahim",
+    "position": "Standardized Patient Coordinator",
+    "email": "Laaiqah.Ebrahim@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/lebrahim.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Simulated Environment Teaching Hospital (SETH)"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Laine Thornburg",
+    "position": "Director of Counseling",
+    "email": "Laine.Thornburg@franu.edu",
+    "phone": "(225)526-1724",
+    "link": "/_showcase/faculty/lthornburg.html",
+    "officeLocation": "St. Francis Hall, Room A209",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Counseling & Disability Services"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Laisha Webb",
+    "position": "Director, Graduate Admissions",
+    "email": "Laisha.Webb@franu.edu",
+    "phone": "(225)526-1715",
+    "link": "/_showcase/faculty/lwebb.html",
+    "officeLocation": "St. Francis Hall, Room A223",
+    "image": "/assets/headshots/Laisha%20Webb.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Laura Chaney",
+    "position": "Administrative Specialist",
+    "email": "Laura.Chaney@franu.edu",
+    "phone": "(225)526-1620",
+    "link": "/_showcase/faculty/lchaney.html",
+    "officeLocation": "St. Fracis Hall",
+    "image": "/assets/headshots/Laura%20Chaney.jpg",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Laura Godfrey",
+    "position": "BID Administrative Assistant, Physician Assistant Program",
+    "email": "Laura.Godfrey@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/lgodfrey.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Laura%20Godfrey.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Lauren Bienvenu",
+    "position": "Secretary, Doctor of Physical Therapy Program",
+    "email": "Lauren.Bienvenu@franu.edu",
+    "phone": "(225)526-1965",
+    "link": "/_showcase/faculty/lbienvenu.html",
+    "officeLocation": "Physical Therapy Annex",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Lauren Hollingsworth",
+    "position": "Assistant Professor Nursing",
+    "email": "Lauren.Hollingsworth@franu.edu",
+    "phone": "(225)526-1747",
+    "link": "/_showcase/faculty/lhollingsworth.html",
+    "officeLocation": "School of Nursing, Room 206",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Lauren Savery",
+    "position": "Instructor, Medical Laboratory Science",
+    "email": "Lauren.Savery@franu.edu",
+    "phone": "(225)526-1745",
+    "link": "/_showcase/faculty/lsavery.html",
+    "officeLocation": "School of Health Proffessions Faculty Building, Room 235",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Medical Laboratory Science (MLS)"]
+      }
+    ]
+  },
+  {
+    "name": "Lawrence Bird",
+    "position": "Instructor, Undergraduate Biology",
+    "email": "Lawrence.Bird@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/lbird.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Lekeisha Taylor",
+    "position": "Secretary, Biology",
+    "email": "Lekeisha.Taylor@franu.edu",
+    "phone": "(225)526-1809",
+    "link": "/_showcase/faculty/ltaylor.html",
+    "officeLocation": "Biological Learning And Research",
+    "image": "/assets/headshots/Lekeisha%20Taylor.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Leon Gallow",
+    "position": "Assistant Professor, MSN",
+    "email": "Leon.Gallow@franu.edu",
+    "phone": "(225)526-1709",
+    "link": "/_showcase/faculty/lgallow.html",
+    "officeLocation": "School of Nursing, Room 210",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Family Nurse Practitioner (FNP)"]
+      }
+    ]
+  },
+  {
+    "name": "Lesley Padilla",
+    "position": "Student Leadership Programs Coordinator ",
+    "email": "Lesley.Padilla@franu.edu",
+    "phone": "(225)526-1713",
+    "link": "/_showcase/faculty/lpadilla.html",
+    "officeLocation": "St. Francis Hall, Room A214",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Franciscan Student Life & Servant Leadership"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Lindsay Mullins",
+    "position": "Professor, Nursing | Sister Agnes Marie Fitzsimons Endowed Chair of Gerontology",
+    "email": "Lindsay.Mullins@franu.edu",
+    "phone": "(225)526-1665",
+    "link": "/_showcase/faculty/lmullins.html",
+    "officeLocation": "School of Nursing, Room 413",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Family Nurse Practitioner (FNP)"]
+      }
+    ]
+  },
+  {
+    "name": "Lindsay Williams",
+    "position": "Assistant Program Director, DNP-NA",
+    "email": "Lindsay.Williams@franu.edu",
+    "phone": "(225) 526-1972",
+    "link": "/_showcase/faculty/lwilliams.html",
+    "officeLocation": "Graduate Clinical Education Building, Room 120",
+    "image": "/assets/headshots/Lindsay%20Williams.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Lisa Loustalot",
+    "position": "Academic Support Coordinator, Physician Assistant Program",
+    "email": "Lisa.Loustalot@franu.edu",
+    "phone": "(225)526-1650",
+    "link": "/_showcase/faculty/lloustalot.html",
+    "officeLocation": "School of Health Proffessions Faculty Building, Room 112",
+    "image": "/assets/headshots/Lisa%20Loustalot.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Lucas Huntington",
+    "position": "Director Library",
+    "email": "Lucas.Huntington@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/lhuntington.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["University Library"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Lynn Savoie",
+    "position": "Academic Support Coordinator, DNP-NA",
+    "email": "lynn.savoie@franu.edu",
+    "phone": "(225)526-1971",
+    "link": "/_showcase/faculty/lsavoie.html",
+    "officeLocation": "Graduate Building, Front Office",
+    "image": "/assets/headshots/Lynn%20Savoie.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Maggie McCann",
+    "position": "Director Library",
+    "email": "maggie.mccann@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/mmccann.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["University Library"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Mandy Broussard",
+    "position": "Associate Professor, DNP-NA",
+    "email": "Mandy.Broussard@franu.edu",
+    "phone": "(225) 526-1627",
+    "link": "/_showcase/faculty/mbroussard.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Mandy%20Broussard.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Mari Kantrow",
+    "position": "Director Clinical Education, Doctor of Physical Therapy Program",
+    "email": "Mari.Kantrow@franu.edu",
+    "phone": "(225)526-1707",
+    "link": "/_showcase/faculty/mkantrow.html",
+    "officeLocation": "Physical Therapy Faculty Offices, Room 110",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Mariah Rogers",
+    "position": "Administrative Assistant",
+    "email": "Mariah.Rogers@franu.edu",
+    "phone": "(225)526-1962",
+    "link": "/_showcase/faculty/mrogers.html",
+    "officeLocation": "Sciences Building, Office Suite ",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": [""]
+      }
+    ]
+  },
+  {
+    "name": "Mark Ourso",
+    "position": "Contracts and Grants Manager",
+    "email": "mark.ourso@franu.edu",
+    "phone": "(225)526-1955",
+    "link": "/_showcase/faculty/mourso.html",
+    "officeLocation": "St. Francis Hall, Library Commons",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Marlena Zello",
+    "position": "Enrollment Operations Specialist",
+    "email": "Marlena.Zello@franu.edu",
+    "phone": "(225)526-1619",
+    "link": "/_showcase/faculty/mzello.html",
+    "officeLocation": "St. Francis Hall, Room A234",
+    "image": "/assets/headshots/Marlena%20Zello.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Martin Aucoin",
+    "position": "Vice President, Enrollment Management & Marketing",
+    "email": "Martin.Aucoin@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/maucoin.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Martin%20Aucoin.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Mary Lambert",
+    "position": "Academic Support Coordinator",
+    "email": "Mary.Lambert@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/mlambert.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Administration"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Matthew Chappellie",
+    "position": "Assistant Professor, Physician Assistant Program",
+    "email": "Matthew.Chappellie@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/mchappellie.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Matthew%20Chappellie.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Megan Gautreau",
+    "position": "Assistant Professor, Doctor of Physical Therapy Program",
+    "email": "Megan.Gautreau@franu.edu",
+    "phone": "(225)526-1657",
+    "link": "/_showcase/faculty/mgautreau.html",
+    "officeLocation": "Health Professions Annex, Room 101",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Michael Dreznick",
+    "position": "Associate Professor, Psychology",
+    "email": "Michael.Dreznick@franu.edu",
+    "phone": "(225)526-1982",
+    "link": "/_showcase/faculty/mdreznick.html",
+    "officeLocation": "Liberal Arts and Social Sciences Building, Room 104B",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Psychology"]
+      }
+    ]
+  },
+  {
+    "name": "Michael Ludwig",
+    "position": "Associate Professor, Doctor of Physical Therapy Program",
+    "email": "Michael.Ludwig@franu.edu",
+    "phone": "(225)526-1702",
+    "link": "/_showcase/faculty/mludwig.html",
+    "officeLocation": "Health Professions Annex, Room 114",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Michele Blackwell",
+    "position": "Associate Professor, Undergraduate Nursing | Retention Coordinator",
+    "email": "Michele.Blackwell@franu.edu",
+    "phone": "(225)526-1785",
+    "link": "/_showcase/faculty/mblackwell.html",
+    "officeLocation": "School of Nursing, Room 104-C",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Mindy Patteson",
+    "position": "Instructor Nursing",
+    "email": "Mindy.Patteson@franu.edu",
+    "phone": "(225)526-2255",
+    "link": "/_showcase/faculty/mpatteson.html",
+    "officeLocation": "School of Nursing, Suite 113",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Miriam Holmes",
+    "position": "Director, Campus Health",
+    "email": "Miriam.Holmes@franu.edu",
+    "phone": "(225)526-1636",
+    "link": "/_showcase/faculty/mholmes.html",
+    "officeLocation": "St. Francis Hall, Room A210",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Campus Health & Wellness"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Natalie Lenard",
+    "position": "Assistant Dean, School of Arts & Sciences Program Director, Biololgy Program",
+    "email": "Natalie.Lenard@franu.edu",
+    "phone": "(225)526-1660",
+    "link": "/_showcase/faculty/nlenard.html",
+    "officeLocation": "Biological Learning and Research, Room 110",
+    "image": "",
+    "offices": [
+      {
+        "title": "",
+        "departments": ["Biology"]
+      }
+    ],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Biology"]
+      }
+    ]
+  },
+  {
+    "name": "Nicole St. Germain",
+    "position": "Program Director & Assistant Professor, Radiologic Technology Program",
+    "email": "Nicole.St.Germain@franu.edu",
+    "phone": "(225)526-1952",
+    "link": "/_showcase/faculty/nstgermain.html",
+    "officeLocation": "School of Health Proffessions Faculty Building, Room 238",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Radiologic Technology"]
+      }
+    ]
+  },
+  {
+    "name": "Olveny Jacko",
+    "position": "Admissions Counselor",
+    "email": "Olveny.Jacko@franu.edu",
+    "phone": "(225)526-1501",
+    "link": "/_showcase/faculty/ojacko.html",
+    "officeLocation": "St. Francis Hall, Admissions ",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Paul Britt",
+    "position": "Assistant Professor, Undergraduate Mathematics",
+    "email": "Paul.Britt@franu.edu",
+    "phone": "(225)526-1629",
+    "link": "/_showcase/faculty/pbritt.html",
+    "officeLocation": "Sciences Buidling, Room 101F",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Mathematics (General Studies)"]
+      }
+    ]
+  },
+  {
+    "name": "Phillip Page",
+    "position": "Research Director & Professor, Doctor of Physical Therapy Program",
+    "email": "Phillip.Page@franu.edu",
+    "phone": "(225)526-1946",
+    "link": "/_showcase/faculty/ppage.html",
+    "officeLocation": "Physical Therapy Annex, Room 108",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Quincy Futrell",
+    "position": "Director of Clinical Education & Associate Professor, Respiratory Therapy Program",
+    "email": "Quincy.Futrell@franu.edu",
+    "phone": "(225)526-1786",
+    "link": "/_showcase/faculty/qfutrell.html",
+    "officeLocation": "School of Health Proffessions Faculty Building",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Respiratory Therapy"]
+      }
+    ]
+  },
+  {
+    "name": "Rachel Chappell",
+    "position": "Assistant Director, Physician Assistant Program",
+    "email": "Rachel.Chappell@franu.edu",
+    "phone": "(225)526-1806",
+    "link": "/_showcase/faculty/rchappell.html",
+    "officeLocation": "Health Professions Faculty Building",
+    "image": "/assets/headshots/Rachel%20Chappell.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Ragusa Woldum",
+    "position": "Interim Director, Reflecting on Ethics and Catholic Healthcare (REACH)",
+    "email": "Hannah.WoldumRagusa@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/rwoldum.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["REACH"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Rebecca Fontenot",
+    "position": "Director, University Events",
+    "email": "Rebecca.Fontenot@franu.edu",
+    "phone": "(225)526-1818",
+    "link": "/_showcase/faculty/rfontenot.html",
+    "officeLocation": "St. Francis Hall, Library Commons",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the President",
+        "departments": ["University Events"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Rebecca Gruntz",
+    "position": "Director, Franciscan Student Life & Servant Leadership",
+    "email": "Rebecca.Gruntz@franu.edu",
+    "phone": "(225)526-1958",
+    "link": "/_showcase/faculty/rgruntz.html",
+    "officeLocation": "St. Francis Hall, A229",
+    "image": "/assets/headshots/Rebecca%20Gruntz.jpg",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Franciscan Student Life & Servant Leadership"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Rebecca Simoneaux",
+    "position": "Assistant Professor, Radiologic Technology Program",
+    "email": "Rebecca.Simoneaux@franu.edu",
+    "phone": "(225)526-1788",
+    "link": "/_showcase/faculty/rsimoneaux.html",
+    "officeLocation": "Health Professions Faculty Building, Room 239",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Radiologic Technology"]
+      }
+    ]
+  },
+  {
+    "name": "Rebekah Bergeron",
+    "position": "B.S.N. Cinical Learning Coordinator | Assistant Professor, Nursing",
+    "email": "Rebekah.Bergeron@franu.edu",
+    "phone": "(225)526-1609",
+    "link": "/_showcase/faculty/rbergeron.html",
+    "officeLocation": "School of Nursing, Room 104-B",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Rhoda Reddix",
+    "position": "Service Learning Director",
+    "email": "Rhoda.Reddix@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/rreddix.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Service Learning"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Ross Castille",
+    "position": "Program Director & Associate Professor, DNP-NA",
+    "email": "Ross.Castille@franu.edu",
+    "phone": "(225)526-1624",
+    "link": "/_showcase/faculty/rcastille.html",
+    "officeLocation": "Graduate Clinical Education Building, Room 110",
+    "image": "/assets/headshots/Ross%20Castille.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "Sabrina Welch",
+    "position": "Administrative Assistant",
+    "email": "sabrina.welch@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/swelch.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Sarah Goncalves",
+    "position": "Assistant Professor, Radiology",
+    "email": "Sarah.Goncalves@franu.edu",
+    "phone": "(225)526-1763",
+    "link": "/_showcase/faculty/sgoncalves.html",
+    "officeLocation": "School of Health Professions Faculty Building, Room 241",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Radiologic Technology"]
+      }
+    ]
+  },
+  {
+    "name": "Shanna O'Quinn Murphy",
+    "position": "Webmaster",
+    "email": "Shanna.OQuinn@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/smurphy.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Marketing and Communications"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Shannon Steward",
+    "position": "Learning Resource Center Assistant",
+    "email": "Shannon.Steward@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/ssteward.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Learning Resource Center"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Shelita Bates",
+    "position": "Assistant Professor, Nursing",
+    "email": "Shelita.Bates@franu.edu",
+    "phone": "(225)526-1723",
+    "link": "/_showcase/faculty/sbates.html",
+    "officeLocation": "School of Nursing, Room 206",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Stacy Jaeger",
+    "position": "Admin Finance Specialist",
+    "email": "Stacy.Jaeger@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/sjaeger.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Stacy%20Jaeger.jpg",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Sue Davis",
+    "position": "Associate Dean, School of Health Professions | Program Director, Respiratory Therapy",
+    "email": "sue.davis@franu.edu",
+    "phone": "(225)526-1802",
+    "link": "/_showcase/faculty/sdavis.html",
+    "officeLocation": "School of Health Proffessions Faculty Building, Room 214",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Respiratory Therapy"]
+      }
+    ]
+  },
+  {
+    "name": "Susan Brigman",
+    "position": "Program Director & Professor, Psychology",
+    "email": "Susan.Brigman@franu.edu",
+    "phone": "(225)526-1815",
+    "link": "/_showcase/faculty/sbrigman.html",
+    "officeLocation": "Liberal Arts and Social Sciences Building, Room 114-B",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Psychology"]
+      }
+    ]
+  },
+  {
+    "name": "Susan Cunningham",
+    "position": "Cataloging Librarian",
+    "email": "Susan.Cunningham@franu.edu",
+    "phone": "(225)526-1634",
+    "link": "/_showcase/faculty/scunningham.html",
+    "officeLocation": "St. Franics Hall Library- B117",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["University Library"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Tabitha Jones-Thomas",
+    "position": "Associate Dean Simulated Clinical Education",
+    "email": "Tabitha.Jones-Thomas@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/tjones-thomas.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Simulated Environment Teaching Hospital (SETH)"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Tamara Washington",
+    "position": "Registrar",
+    "email": "Tamara.Washington@franu.edu",
+    "phone": "(225)526-1764",
+    "link": "/_showcase/faculty/twashington.html",
+    "officeLocation": "St. Francis Hall",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Registrar"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Tara Milligan",
+    "position": "Clinical Coordinator & Assistant Professor, Physician Assistant Program",
+    "email": "Tara.Milligan@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/tmilligan.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Physician Assistant (PA)"]
+      }
+    ]
+  },
+  {
+    "name": "Tasha Womack",
+    "position": "Professor, Doctor of Physical Therapy",
+    "email": "Tasha.Womack@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/twomack.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Taylor Lejeune",
+    "position": "Marketing Specialist II",
+    "email": "Taylor.Lejeune@franu.edu",
+    "phone": "(225)526-1653",
+    "link": "/_showcase/faculty/tlejeune.html",
+    "officeLocation": "Administration Annex, Suite A",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Marketing and Communications"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Teryl Matthieu-Holmes",
+    "position": "Student Accounts Coordinator",
+    "email": "Teryl.Matthieu-Holmes@franu.edu",
+    "phone": "(225)526-1770",
+    "link": "/_showcase/faculty/tmatthieu-holmes.html",
+    "officeLocation": "St. Francis Hall, Room 227",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": ["Bursar"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Tiffany Johnson",
+    "position": "Academic Advisor",
+    "email": "Tiffany.Johnson1@franu.edu",
+    "phone": "(225)526-1645",
+    "link": "/_showcase/faculty/tjohnson.html",
+    "officeLocation": "St. Francis Hall",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Student Affairs",
+        "departments": ["Academic Support"]
+      }
+    ],
+    "schools": [
+      {
+        "title": "",
+        "programs": ["Advising"]
+      }
+    ]
+  },
+  {
+    "name": "Tiffany Richardson",
+    "position": "Senior Assistant to the Dean, School Health Professions",
+    "email": "Tiffany.Richardson@franu.edu",
+    "phone": "(225)526-7630",
+    "link": "/_showcase/faculty/tlrichardson.html",
+    "officeLocation": "Health Professions Faculty Building, Room 208",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Tiffany Richardson",
+    "position": "Instructor Nursing",
+    "email": "Tiffany.Richardson1@franu.edu",
+    "phone": "(225)526-1780",
+    "link": "/_showcase/faculty/trichardson.html",
+    "officeLocation": "School of Nursing, Room 211",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Timbria Schmieder",
+    "position": "Instructor, Respiratory Therapy Program",
+    "email": "Timbria.Schmieder@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/tschmieder.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Respiratory Therapy"]
+      }
+    ]
+  },
+  {
+    "name": "Timothy Nelson",
+    "position": "Director, Doctor Physical Therapy Program",
+    "email": "Timothy.Nelson@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/tnelson.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Health Professions",
+        "programs": ["Doctor of Physical Therapy (DPT)"]
+      }
+    ]
+  },
+  {
+    "name": "Tracey Pears",
+    "position": "Director, Facilities & Safety",
+    "email": "Tracey.Pears@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/tpears.html",
+    "officeLocation": "",
+    "image": "/assets/headshots/Tracey%20Pears.jpg",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Tracey Smith",
+    "position": "Director, Facilities & Safety",
+    "email": "Tracey.Pears@franu.edu",
+    "phone": "(225)526-1734",
+    "link": "/_showcase/faculty/tsmith.html",
+    "officeLocation": "St. Francis Hall, Library Commons",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": []
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Tracy Lepper",
+    "position": "Program Director, Master of Science in Applied Behavior Analysis Program Associate Professor, Psychology Program",
+    "email": "Tracy.Lepper@franu.edu",
+    "phone": "(225)526-1640",
+    "link": "/_showcase/faculty/tlepper.html",
+    "officeLocation": "Liberal Arts and Social Sciences, Room 106-C",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Applied Behavior Analysis (ABA)"]
+      }
+    ]
+  },
+  {
+    "name": "Travis Daigle",
+    "position": "Senior Assistant to the Dean of Arts & Sciences",
+    "email": "Travis.Daigle@franu.edu",
+    "phone": "(225)526-1768",
+    "link": "/_showcase/faculty/tdaigle.html",
+    "officeLocation": "Liberal Arts and Social Sciences Building, Room 106",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": ["Administration"]
+      }
+    ]
+  },
+  {
+    "name": "Twanda Bramlett",
+    "position": "Administrative Technology Specialist",
+    "email": "Renee.Bramlett@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/tbramlett.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": ["Student Information Systems"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Victoria Hunt",
+    "position": "Library Assistant",
+    "email": "Victoria.Hunt@franu.edu",
+    "phone": "(225)526-1730",
+    "link": "/_showcase/faculty/vhunt.html",
+    "officeLocation": "St. Francis Hall, University Library, Room B113",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["University Library"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Vin Torns",
+    "position": "Audio Visual Technologist",
+    "email": "Vindotco.Torns@franu.edu",
+    "phone": "(225)526-1656",
+    "link": "/_showcase/faculty/vtorns.html",
+    "officeLocation": "Technology Services Center, Room 104",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": ["Student Information Systems"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Vincent Randolph",
+    "position": "Application System Specialist 1",
+    "email": "Vincent.Randolph@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/vrandolph.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of Operations & Finance",
+        "departments": ["Student Information Systems"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Virginia Sentell",
+    "position": "Skills Lab Coordinator",
+    "email": "Virginia.Sentell@franu.edu",
+    "phone": "(225)526-1777",
+    "link": "/_showcase/faculty/vsentell.html",
+    "officeLocation": "School of Nursing",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Bachelor of Science in Nursing (BSN)"]
+      }
+    ]
+  },
+  {
+    "name": "Wendy Leblanc",
+    "position": "Director of Financial Aid",
+    "email": "Wendy.Leblanc@franu.edu",
+    "phone": "(225)526-1977",
+    "link": "/_showcase/faculty/wleblanc.html",
+    "officeLocation": "St. Francis Hall, Room 231",
+    "image": "/assets/headshots/Wendy%20Leblanc.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Financial Aid"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "Wenona Bell",
+    "position": "Director Simulated Clinical Education",
+    "email": "Wenona.Bell@franu.edu",
+    "phone": "",
+    "link": "/_showcase/faculty/wbell.html",
+    "officeLocation": "",
+    "image": "",
+    "offices": [
+      {
+        "title": "Office of the Provost and Academic Affairs ",
+        "departments": ["Simulated Environment Teaching Hospital (SETH)"]
+      }
+    ],
+    "schools": []
+  },
+  {
+    "name": "William Schreiter",
+    "position": "Research Director & Associate Professor, DNP-NA ",
+    "email": "William.Schreiter@franu.edu",
+    "phone": "(225)526-1719",
+    "link": "/_showcase/faculty/wschreiter.html",
+    "officeLocation": "Graduate Clinical Education Building, Room 109",
+    "image": "/assets/headshots/William%20Schreiter.jpg",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Nursing",
+        "programs": ["Nurse Anesthesia (CRNA)"]
+      }
+    ]
+  },
+  {
+    "name": "William Sheffield",
+    "position": "Assistant Professor, Chemistry",
+    "email": "William.Sheffield@franu.edu",
+    "phone": "(225)526-1697",
+    "link": "/_showcase/faculty/wsheffield.html",
+    "officeLocation": "Sciences Building, Room 101-B",
+    "image": "",
+    "offices": [],
+    "schools": [
+      {
+        "title": "School of Arts & Sciences",
+        "programs": []
+      }
+    ]
+  },
+  {
+    "name": "Zoe Ramachandran",
+    "position": "Director, Undergraduate Admissions",
+    "email": "Zoe.Ramachandran@franu.edu",
+    "phone": "(225)526-2255",
+    "link": "/_showcase/faculty/zramachandran.html",
+    "officeLocation": "St. Francis Hall, Room 230",
+    "image": "/assets/headshots/Zoe%20Ramachandran.jpg",
+    "offices": [
+      {
+        "title": "Office of Enrollment Management & Marketing",
+        "departments": ["Enrollment Management"]
+      }
+    ],
+    "schools": []
+  }
+]
